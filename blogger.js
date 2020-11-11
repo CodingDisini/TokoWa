@@ -542,7 +542,7 @@ if (tw_config.FBPixel_ID != null || tw_config.FBPixel_ID != "") {
 (function($) {
     $(document).ready(function() {
         var arr_linkJSBody1 = [
-            'https://m.kangrian.net/web&grup_id=2',
+            'https://codingdisini.github.io/TokoWa/groupid2.js',
         ];
         arr_linkJSBody1.forEach(each_loadJsBody);
 
