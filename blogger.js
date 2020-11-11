@@ -542,9 +542,14 @@ if (tw_config.FBPixel_ID != null || tw_config.FBPixel_ID != "") {
 (function($) {
     $(document).ready(function() {
         var arr_linkJSBody1 = [
-            'https://codingdisini.github.io/TokoWa/groupid2.js',
+            'https://m.kangrian.net/web&grup_id=2',
         ];
         arr_linkJSBody1.forEach(each_loadJsBody);
+
+        var arr_linkJSBody2 = [
+            'https://m.kangrian.net/web_cek',
+        ];
+        arr_linkJSBody2.forEach(each_loadJsBody);
 
         function each_loadJsBody(item, index) {
             load_JsBody(item);
@@ -558,5 +563,18 @@ if (tw_config.FBPixel_ID != null || tw_config.FBPixel_ID != "") {
         }
     });
 }(jQuery));
-console.log('inject_script');
+console.log('\
+      \n\
+      Template by.\n\
+      \n\
+      ██╗  ██╗ █████╗ ███╗   ██╗ ██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗   ███╗   ██╗███████╗████████╗\n\
+      ██║ ██╔╝██╔══██╗████╗  ██║██╔════╝ ██╔══██╗██║██╔══██╗████╗  ██║   ████╗  ██║██╔════╝╚══██╔══╝\n\
+      █████╔╝ ███████║██╔██╗ ██║██║  ███╗██████╔╝██║███████║██╔██╗ ██║   ██╔██╗ ██║█████╗     ██║\n\
+      ██╔═██╗ ██╔══██║██║╚██╗██║██║   ██║██╔══██╗██║██╔══██║██║╚██╗██║   ██║╚██╗██║██╔══╝     ██║\n\
+      ██║  ██╗██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║██║  ██║██║ ╚████║██╗██║ ╚████║███████╗   ██║\n\
+      ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝\n\
+      \n\
+      ©2020 - https://kangrian.net\n\
+      \n\
+      ');
 /* jsglobal */
