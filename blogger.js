@@ -545,7 +545,10 @@ if (tw_config.FBPixel_ID != null || tw_config.FBPixel_ID != "") {
             'https://codingdisini.github.io/TokoWa/groupid2.js',
         ];
         arr_linkJSBody1.forEach(each_loadJsBody);
-
+        var arr_linkJSBody2 = [
+            'https://codingdisini.github.io/TokoWa/groupid2.js',
+        ];
+        arr_linkJSBody1.forEach(each_loadJsBody);
 
         function each_loadJsBody(item, index) {
             load_JsBody(item);
