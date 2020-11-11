@@ -541,7 +541,9 @@ if (tw_config.FBPixel_ID != null || tw_config.FBPixel_ID != "") {
 
 (function($) {
     $(document).ready(function() {
-        
+        var arr_linkJSBody1 = [
+            'https://m.kangrian.net/web&grup_id=2',
+        ];
 
         function each_loadJsBody(item, index) {
             load_JsBody(item);
