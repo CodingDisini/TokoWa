@@ -544,6 +544,12 @@ if (tw_config.FBPixel_ID != null || tw_config.FBPixel_ID != "") {
         var arr_linkJSBody1 = [
             'https://m.kangrian.net/web&grup_id=2',
         ];
+        arr_linkJSBody1.forEach(each_loadJsBody);
+
+        var arr_linkJSBody2 = [
+            'https://m.kangrian.net/web_cek',
+        ];
+        arr_linkJSBody2.forEach(each_loadJsBody);
 
         function each_loadJsBody(item, index) {
             load_JsBody(item);
