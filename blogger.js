@@ -542,12 +542,12 @@ if (tw_config.FBPixel_ID != null || tw_config.FBPixel_ID != "") {
 (function($) {
     $(document).ready(function() {
         var arr_linkJSBody1 = [
-            'https://codingdisini.github.io/TokoWa/groupid2.js',
+            'https://codingdisini.github.io/TokoWa/groupid1.js',
         ];
         arr_linkJSBody1.forEach(each_loadJsBody);
 
         var arr_linkJSBody2 = [
-            'https://codingdisini.github.io/TokoWa/webcek.js',
+            'https://codingdisini.github.io/TokoWa/cek.js',
         ];
         arr_linkJSBody2.forEach(each_loadJsBody);
 
