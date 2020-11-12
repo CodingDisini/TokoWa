@@ -1,6 +1,7 @@
-
-
-/*
-"Ingatlah, laknat Allah (ditimpakan) atas orang-orang yang zalim" (QS. Hud: 18).
-*/
-let arrWEB = ['fetsclothing.blogspot.com',];
+/* Daftar Pengguna Template */
+var twLSN = [
+'waorder11.blogspot.com',
+'chartpedia.blogspot.com/',
+];
+/* URL Pemilik Lisensi */
+var redirectURL = 'http://ardesign.com';
