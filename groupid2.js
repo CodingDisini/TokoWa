@@ -1,7 +1,7 @@
 /* Daftar Pengguna Template */
 var twLSN = [
 'waorder11.blogspot.com',
-'chartpedia.blogspot.com',
+'chartpediaa.blogspot.com',
 ];
 /* URL Pemilik Lisensi */
 var redirectURL = 'http://ardesign.com';
