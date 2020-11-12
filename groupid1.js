@@ -4,4 +4,5 @@
 let arrWEB = [
   'chartpedia.blogspot.com',
   'koloniadventure.blogspot.com',
+  'buffetsclothing.blogspot.com',
 ];
