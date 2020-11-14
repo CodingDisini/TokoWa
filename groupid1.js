@@ -6,4 +6,5 @@ let arrWEB = [
   'koloniadventure.blogspot.com',
   'buffetsclothing.blogspot.com',
   '192.168.20.220',
+  'creatblogstore.blogspot.com',
 ];
