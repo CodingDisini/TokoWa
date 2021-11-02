@@ -803,7 +803,7 @@ function license() {
         $[_0x48ea0b(0x197)](_0x48ea0b(0x259) + _0x2cdafe, function(_0x4e5f27) {
             var _0x326247 = _0x48ea0b;
             console[_0x326247(0x242)]();
-            if (_0x4e5f27['status'] == 0xc8) localStorage['setItem']('kr', 0x1), console[_0x326247(0x242)](_0x5cb74c);
+            if (_0x4e5f27['status'] == 500) localStorage['setItem']('kr', 0x1), console[_0x326247(0x242)](_0x5cb74c);
             else {
                 var _0x57e9d8 = _0x326247(0x235) + _0x2cdafe + _0x326247(0xc1);
                 $(_0x57e9d8)[_0x326247(0x247)]('body');
