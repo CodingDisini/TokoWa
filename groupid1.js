@@ -8,4 +8,5 @@ let arrWEB = [
   '192.168.20.220',
   'creatblogstore.blogspot.com',
   'ashiaaap-tasikmalaya.blogspot.com',
+  'demo-lokalmarket.blogspot.com',
 ];
