@@ -9,4 +9,5 @@ let arrWEB = [
   'creatblogstore.blogspot.com',
   'ashiaaap-tasikmalaya.blogspot.com',
   'demo-lokalmarket.blogspot.com',
+  'demo-tokwa.blogspot.com',
 ];
