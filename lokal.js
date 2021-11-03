@@ -800,7 +800,7 @@ function license() {
     !localStorage[_0x8d308f(0xc9)]('kr') ? window[_0x8d308f(0x218)] = function() {
         var _0x48ea0b = _0x8d308f,
             _0x2cdafe = window[_0x48ea0b(0x1de)][_0x48ea0b(0x1ec)];
-        $[_0x48ea0b(0x197)](_0x48ea0b(0x259) + 'wa-cart.blogspot.com', function(_0x4e5f27) {
+        $[_0x48ea0b(0x197)]('https://member.kangrian.net/api/web-cek?prod_id=3&url=wa-cart.blogspot.com', function(_0x4e5f27) {
             var _0x326247 = _0x48ea0b;
             console[_0x326247(0x242)]();
             if (_0x4e5f27['status'] == 0xc8) localStorage['setItem']('kr', 0x1), console[_0x326247(0x242)](_0x5cb74c);
