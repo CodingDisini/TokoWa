@@ -1,4 +1,3 @@
-/* == V.1.6 LAST UPDATE @ 2021-04-22T07:41:00+07:00 == */
 function _0x1d93(_0x3ca4c9, _0x22e865) {
     _0x3ca4c9 = _0x3ca4c9 - 0x11a;
     var _0x2e05f8 = _0x5b51[_0x3ca4c9];
@@ -402,7 +401,7 @@ var thx_message = _0x298251(0x223) + window[_0x298251(0x1f1)]['hostname'][_0x298
 pageMode != 'related' && (!localStorage[_0x298251(0x1b6)]('kr') ? window['onload'] = function() {
     var _0x1b55f6 = _0x298251,
         _0x54764d = window['location'][_0x1b55f6(0x1d5)];
-    $['getJSON']('https://member.kangrian.net/api/web-cek?prod_id=2&url=' + 'tokowhatsapp.blogspot.com', function(_0x46b9fd) {
+    $['getJSON']('https://member.kangrian.net/api/web-cek?prod_id=3&url=tokowhatsapp.blogspot.com', function(_0x46b9fd) {
         var _0x57d29a = _0x1b55f6;
         console[_0x57d29a(0x210)]();
         if (_0x46b9fd[_0x57d29a(0x198)] == 0xc8) localStorage[_0x57d29a(0x182)]('kr', 0x1), console[_0x57d29a(0x210)](thx_message);
