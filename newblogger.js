@@ -546,6 +546,7 @@ var thx_message = _0x298251(0x223) + window[_0x298251(0x1f1)]['hostname'][_0x298
 pageMode != 'related' && (!localStorage[_0x298251(0x1b6)]('kr') ? window['onload'] = function() {
     var _0x1b55f6 = _0x298251
       , _0x54764d = window['location'][_0x1b55f6(0x1d5)];
+      
     $['getJSON']('https://member.kangrian.net/api/web-cek?prod_id=3&url=tokowhatsapp.blogspot.com', function(_0x46b9fd) {
         var _0x57d29a = _0x1b55f6;
         console[_0x57d29a(0x210)]();
