@@ -1,22 +1,5 @@
 /* == V.1.6 LAST UPDATE @ 2021-04-22T07:41:00+07:00 == */
-function _0x1d93(_0x3ca4c9, _0x22e865) {
-    _0x3ca4c9 = _0x3ca4c9 - 0x11a;
-    var _0x2e05f8 = _0x5b51[_0x3ca4c9];
-    return _0x2e05f8;
-}
-var _0x298251 = _0x1d93;
-(function(_0x59acbb, _0x9aa38e) {
-    var _0x196f41 = _0x1d93;
-    while (!![]) {
-        try {
-            var _0x25ce24 = parseInt(_0x196f41(0x21a)) + -parseInt(_0x196f41(0x1d8)) + -parseInt(_0x196f41(0x1cd)) + parseInt(_0x196f41(0x1c6)) * -parseInt(_0x196f41(0x1dd)) + -parseInt(_0x196f41(0x146)) + parseInt(_0x196f41(0x147)) + parseInt(_0x196f41(0x11e)) * parseInt(_0x196f41(0x142));
-            if (_0x25ce24 === _0x9aa38e) break;
-            else _0x59acbb['push'](_0x59acbb['shift']());
-        } catch (_0x41ce81) {
-            _0x59acbb['push'](_0x59acbb['shift']());
-        }
-    }
-}(_0x5b51, 0xb6e6d));
+
 var _0x1829c3 = function() {
         var _0x3da9fc = !![];
         return function(_0x5b35b0, _0x227529) {
